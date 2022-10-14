@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chakraborty-Pritam
-- 👀 i'm into tech 
+- 👀  into tech 
 - 📫 Connect - https://bio.link/pritamch
 
 <!---
