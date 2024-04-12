@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chakraborty-Pritam
+- 👋I’m @Chakraborty-Pritam
 - 👀  into tech 
 - 📫 Connect - https://bio.link/pritamch
 
