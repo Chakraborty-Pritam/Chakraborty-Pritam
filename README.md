@@ -1,6 +1,6 @@
-- 👋I’m @Chakraborty-Pritam
-- 👀  into tech 
-- 📫 Connect - https://bio.link/pritamch
+@Chakraborty-Pritam
+tech 
+
 
 <!---
 Chakraborty-Pritam/Chakraborty-Pritam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
